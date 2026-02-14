@@ -1,70 +1,111 @@
-<h1 align="center">Sujal Paghadal</h1>
+<h1 align="center">Hi 👋, I'm Sujal Paghadal</h1>
+
+<h3 align="center">
+🚀 Full Stack Developer | Turning Ideas into Scalable, Secure & High-Performance Web Applications
+</h3>
+
 <p align="center">
-Full Stack Engineer building scalable, production-grade web systems.
+  <a href="mailto:sujal2207@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sujal2207@gmail.com-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sujal-paghadal">
+    <img src="https://img.shields.io/badge/LinkedIn-Sujal%20Paghadal-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sujal2207&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-I design and build high-performance web applications focused on scalability, clean architecture, and real-world business impact.
+I’m a **Full Stack Developer** who loves building **production-ready, scalable & secure applications**.
 
-With strong expertise in modern JavaScript ecosystems, I specialize in delivering production-ready solutions that are secure, optimized, and built for growth.
-
----
-
-## Core Expertise
-
-• Scalable Backend Architecture  
-• REST API & Authentication Systems  
-• Performance Optimization  
-• Database Design & Query Optimization  
-• Cloud Deployment & DevOps  
+- 🔥 Strong expertise in **Frontend & Backend Development**
+- 🧠 Advanced **JavaScript & TypeScript**
+- ⚡ Performance-focused & clean architecture mindset
+- 💳 Hands-on with **Stripe, Razorpay & PayPal**
+- ☁️ Deployed & scaled apps on **AWS, Vercel, Netlify & DigitalOcean**
+- 🤝 Open for **Freelance • Remote • Full-Time Opportunities**
 
 ---
 
-## Technology Stack
+## 🧰 Tech Stack
 
-Frontend  
-React • Next.js • TypeScript • Tailwind CSS  
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,materialui" />
+</p>
 
-Backend  
-Node.js • Express • API Development  
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
 
-Database  
-MongoDB • MySQL • PostgreSQL  
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
+</p>
 
-DevOps  
-AWS • Vercel • DigitalOcean • Nginx  
+### ☁️ DevOps & Hosting
+<p>
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker" />
+</p>
 
----
-
-## Selected Work
-
-• AI-powered web applications  
-• High-performance backend systems  
-• Real-time dashboards  
-• Custom business automation tools  
-
----
-
-## Professional Focus
-
-Building systems that are:
-✔ Scalable  
-✔ Maintainable  
-✔ Secure  
-✔ Performance-Optimized  
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,slack" />
+</p>
 
 ---
 
-## Contact
+## 🚀 Featured Projects
 
-Email: yourmail@gmail.com  
-LinkedIn: linkedin.com/in/yourprofile  
+### 🔹 Full Stack Applications
+- **Detail Driven** – Scalable web app with authentication & admin panel  
+- **Elegance Admin** – Modern dashboard with role-based access  
+- **LoyalString 2.0** – Business-focused application with payment integration  
+
+### 🔹 Client & Utility Projects
+- **Wedding Card Generator**
+- **Appliance Repair Management System**
+- **Server-Rendered Web Apps**
+
+👉 *More projects available on my repositories.*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujal2207&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal2207&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 💼 Freelance & Collaboration
+
+💡 I help startups & businesses with:
+- Full Stack Web Development
+- Admin Dashboards
+- Payment Gateway Integration
+- API Development
+- Deployment & Scaling
+
+📩 **Let’s work together!**
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **sujal2207@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/sujal-paghadal**
 
 ---
 
 <p align="center">
-Engineering digital products that scale.
+  ⭐ If you like my work, consider starring my repositories ⭐
 </p>
