@@ -30,6 +30,7 @@ With strong expertise in full-stack development, I focus on:
 - Secure Authentication & Role-Based Systems  
 - Payment Gateway Integration  
 - API Optimization & Performance Scaling  
+- CMS & Headless Architecture (Strapi)  
 - Cloud Deployment & DevOps Practices  
 
 I build systems that are production-ready, scalable, and business-focused.
@@ -39,16 +40,23 @@ I build systems that are production-ready, scalable, and business-focused.
 ## 🛠 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,vite,tailwind,materialui,nodejs,nestjs,express,mongodb,mysql,postgres,firebase,supabase,aws,docker,vercel,netlify,git,github,vscode,webstorm" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,vite,tailwind,materialui,nodejs,nestjs,express,strapi,mongodb,mysql,postgres,firebase,supabase,aws,docker,vercel,netlify,git,github,vscode,webstorm" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
   <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
 </p>
 
@@ -88,6 +96,7 @@ I collaborate with startups & businesses worldwide to create scalable digital pr
 ✔ Admin Dashboards  
 ✔ Payment Gateway Integration  
 ✔ API Development & Optimization  
+✔ CMS & Backend Systems  
 ✔ Cloud Deployment & Scaling  
 
 📩 **sujal2207@gmail.com**  
