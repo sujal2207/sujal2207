@@ -1,111 +1,76 @@
-<h1 align="center">Hi 👋, I'm Sujal Paghadal</h1>
-
-<h3 align="center">
-🚀 Full Stack Developer | Turning Ideas into Scalable, Secure & High-Performance Web Applications
-</h3>
-
+<h1 align="center">Sujal Paghadal</h1>
 <p align="center">
-  <a href="mailto:sujal2207@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sujal2207@gmail.com-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sujal-paghadal">
-    <img src="https://img.shields.io/badge/LinkedIn-Sujal%20Paghadal-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
+Full Stack Engineer — Scalable Backend Systems & Production-Grade Web Applications
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sujal2207&style=for-the-badge&color=blueviolet"/>
+Building clean, high-performance systems designed for real-world growth.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I’m a **Full Stack Developer** who loves building **production-ready, scalable & secure applications**.
+I design and develop scalable web applications with a strong focus on backend architecture, system design, and performance optimization.
 
-- 🔥 Strong expertise in **Frontend & Backend Development**
-- 🧠 Advanced **JavaScript & TypeScript**
-- ⚡ Performance-focused & clean architecture mindset
-- 💳 Hands-on with **Stripe, Razorpay & PayPal**
-- ☁️ Deployed & scaled apps on **AWS, Vercel, Netlify & DigitalOcean**
-- 🤝 Open for **Freelance • Remote • Full-Time Opportunities**
+My approach is simple:
+clarity in structure, efficiency in execution, and scalability by design.
+
+I build systems that are production-ready, secure, and maintainable.
 
 ---
 
-## 🧰 Tech Stack
+## Core Expertise
 
-### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,materialui" />
-</p>
-
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-</p>
-
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
-</p>
-
-### ☁️ DevOps & Hosting
-<p>
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker" />
-</p>
-
-### 🛠️ Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,slack" />
-</p>
+• Scalable REST API Development  
+• Authentication & Authorization Systems  
+• Database Architecture & Optimization  
+• Clean Code & Maintainable Architecture  
+• Cloud Deployment & Infrastructure Setup  
 
 ---
 
-## 🚀 Featured Projects
+## Technology Stack
 
-### 🔹 Full Stack Applications
-- **Detail Driven** – Scalable web app with authentication & admin panel  
-- **Elegance Admin** – Modern dashboard with role-based access  
-- **LoyalString 2.0** – Business-focused application with payment integration  
+**Frontend**  
+React • Next.js • TypeScript • Tailwind CSS  
 
-### 🔹 Client & Utility Projects
-- **Wedding Card Generator**
-- **Appliance Repair Management System**
-- **Server-Rendered Web Apps**
+**Backend**  
+Node.js • Express • API Architecture  
 
-👉 *More projects available on my repositories.*
+**Databases**  
+MongoDB • PostgreSQL • MySQL  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujal2207&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal2207&theme=tokyonight" height="150"/>
-</p>
+**DevOps & Deployment**  
+AWS • Vercel • DigitalOcean • Nginx  
 
 ---
 
-## 💼 Freelance & Collaboration
+## Selected Work
 
-💡 I help startups & businesses with:
-- Full Stack Web Development
-- Admin Dashboards
-- Payment Gateway Integration
-- API Development
-- Deployment & Scaling
-
-📩 **Let’s work together!**
+• High-performance backend systems  
+• Real-time dashboards & admin panels  
+• AI-integrated web platforms  
+• Custom automation & business tools  
 
 ---
 
-## 📫 Contact
+## Engineering Principles
 
-- 📧 Email: **sujal2207@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/sujal-paghadal**
+• Write clean, readable, maintainable code  
+• Design systems for scale, not shortcuts  
+• Optimize for performance from day one  
+• Deliver production-ready solutions  
+
+---
+
+## Contact
+
+Email: yourmail@gmail.com  
+LinkedIn: linkedin.com/in/yourprofile  
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider starring my repositories ⭐
+Engineering digital products that scale.
 </p>
