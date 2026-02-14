@@ -62,22 +62,6 @@ I build systems that are production-ready, scalable, and business-focused.
 
 ---
 
-## 💼 Featured Projects
-
-### 🔹 Detail Driven  
-Scalable web application with authentication & admin panel.
-
-### 🔹 Elegance Admin  
-Modern dashboard with role-based access control.
-
-### 🔹 LoyalString 2.0  
-Business solution with secure payment integration.
-
-### 🔹 Appliance Repair Management System  
-Service-based platform with booking & management system.
-
----
-
 ## 📊 GitHub Performance
 
 <p align="center">
