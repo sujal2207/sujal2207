@@ -1,77 +1,111 @@
-<h1 align="center">Sujal Paghadal</h1>
+<h1 align="center">Hi 👋, I'm Sujal Paghadal</h1>
+
+<h3 align="center">
+🚀 Full Stack Developer | Turning Ideas into Scalable, Secure & High-Performance Web Applications
+</h3>
 
 <p align="center">
-  <strong>Full Stack Engineer</strong><br/>
-  Scalable Backend Systems • Production-Grade Web Applications
+  <a href="mailto:sujal2207@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sujal2207@gmail.com-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sujal-paghadal">
+    <img src="https://img.shields.io/badge/LinkedIn-Sujal%20Paghadal-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 <p align="center">
-  <em>Designing clean, high-performance systems built for real-world growth.</em>
+  <img src="https://komarev.com/ghpvc/?username=sujal2207&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
-I design and develop scalable web applications with a strong focus on backend architecture, system design, and performance optimization.
+I’m a **Full Stack Developer** who loves building **production-ready, scalable & secure applications**.
 
-My work is centered around clarity in structure, efficiency in execution, and scalability by design.
-
-I build systems that are secure, maintainable, and production-ready.
-
----
-
-##  Core Expertise
-
-- Scalable REST API Development  
-- Authentication & Authorization Systems  
-- Database Architecture & Optimization  
-- Clean & Maintainable Code Structure  
-- Cloud Deployment & Infrastructure Setup  
+- 🔥 Strong expertise in **Frontend & Backend Development**
+- 🧠 Advanced **JavaScript & TypeScript**
+- ⚡ Performance-focused & clean architecture mindset
+- 💳 Hands-on with **Stripe, Razorpay & PayPal**
+- ☁️ Deployed & scaled apps on **AWS, Vercel, Netlify & DigitalOcean**
+- 🤝 Open for **Freelance • Remote • Full-Time Opportunities**
 
 ---
 
-##  Technology Stack
+## 🧰 Tech Stack
 
-### Frontend  
-`React` • `Next.js` • `TypeScript` • `Tailwind CSS`
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,materialui" />
+</p>
 
-### Backend  
-`Node.js` • `Express` • `API Architecture`
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
 
-### Databases  
-`MongoDB` • `PostgreSQL` • `MySQL`
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
+</p>
 
-### DevOps  
-`AWS` • `Vercel` • `DigitalOcean` • `Nginx`
+### ☁️ DevOps & Hosting
+<p>
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker" />
+</p>
 
----
-
-##  Engineering Approach
-
-- Design systems for scale  
-- Prioritize performance from day one  
-- Maintain clean, structured codebases  
-- Deliver production-ready solutions  
-
----
-
-##  Selected Work Focus
-
-High-performance backend systems  
-Real-time dashboards & admin panels  
-AI-integrated platforms  
-Business automation tools  
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,slack" />
+</p>
 
 ---
 
-##  Connect
+## 🚀 Featured Projects
 
-Email: yourmail@gmail.com  
-LinkedIn: linkedin.com/in/yourprofile  
+### 🔹 Full Stack Applications
+- **Detail Driven** – Scalable web app with authentication & admin panel  
+- **Elegance Admin** – Modern dashboard with role-based access  
+- **LoyalString 2.0** – Business-focused application with payment integration  
+
+### 🔹 Client & Utility Projects
+- **Wedding Card Generator**
+- **Appliance Repair Management System**
+- **Server-Rendered Web Apps**
+
+👉 *More projects available on my repositories.*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujal2207&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal2207&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 💼 Freelance & Collaboration
+
+💡 I help startups & businesses with:
+- Full Stack Web Development
+- Admin Dashboards
+- Payment Gateway Integration
+- API Development
+- Deployment & Scaling
+
+📩 **Let’s work together!**
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **sujal2207@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/sujal-paghadal**
 
 ---
 
 <p align="center">
-  <strong>Engineering digital systems that scale.</strong>
+  ⭐ If you like my work, consider starring my repositories ⭐
 </p>
