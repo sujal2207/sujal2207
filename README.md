@@ -11,10 +11,10 @@
 
 - 🚀 Full Stack Developer with strong **Frontend & Backend** expertise  
 - 🧠 Proficient in **JavaScript & TypeScript**
-- 🏗️ Experienced in building **scalable, secure & high-performance applications**
-- 💳 Integrated multiple **payment gateways (Stripe, Razorpay, PayPal)**
-- ☁️ Deployed apps on **AWS, Vercel, Netlify & DigitalOcean**
-- 🤝 Open to **freelance, collaboration & full-time opportunities**
+- 🏗️ Building **scalable, secure & high-performance applications**
+- 💳 Experience with **Stripe, Razorpay & PayPal integrations**
+- ☁️ Deploying apps on **AWS, Vercel, Netlify & DigitalOcean**
+- 🤝 Open for **freelance, collaboration & full-time opportunities**
 
 ---
 
@@ -81,7 +81,7 @@
 
 ---
 
-## 🧰 Tools & IDEs
+## 🧰 Tools & Collaboration
 
 <p>
   <img src="https://img.shields.io/badge/Git-black"/>
@@ -89,6 +89,8 @@
   <img src="https://img.shields.io/badge/VS%20Code-blue"/>
   <img src="https://img.shields.io/badge/Cursor-black"/>
   <img src="https://img.shields.io/badge/WebStorm-000000"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7"/>
 </p>
 
 ---
