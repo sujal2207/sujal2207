@@ -28,23 +28,67 @@ With strong expertise in full-stack development, I focus on:
 
 - Clean Architecture & Maintainable Code  
 - Secure Authentication & Role-Based Systems  
-- Payment Gateway Integration  
+- Payment Gateway Integration (Stripe, Razorpay, PayPal)  
 - API Optimization & Performance Scaling  
 - Cloud Deployment & DevOps Practices  
 
-I believe in building systems that are not just functional — but production-ready.
+I build systems that are production-ready, scalable, and business-focused.
 
 ---
 
-## 🛠 Tech Arsenal
+# 🛠 Tech Arsenal
 
+## 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,postgres,firebase,aws,vercel,netlify,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,vite,tailwind,materialui" />
 </p>
 
 ---
 
-## 💼 Featured Projects
+## ⚙ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+</p>
+
+---
+
+## 🗄 Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
+</p>
+
+---
+
+## ☁ DevOps & Hosting
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker" />
+  <br/>
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge"/>
+</p>
+
+---
+
+## 💳 Payment Integration
+<p align="center">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+</p>
+
+---
+
+## 🧰 Tools & IDEs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm" />
+  <br/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+</p>
+
+---
+
+# 💼 Featured Projects
 
 ### 🔹 Detail Driven  
 Scalable web application with authentication & admin panel.
@@ -60,7 +104,7 @@ Service-based platform with booking & management system.
 
 ---
 
-## 📊 GitHub Performance
+# 📊 GitHub Performance
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sujal2207&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -69,15 +113,16 @@ Service-based platform with booking & management system.
 
 ---
 
-## 🤝 Let's Build Something Great
+# 🤝 Let's Build Something Great
 
 I collaborate with startups & businesses worldwide to create scalable digital products.
 
 ✔ Full Stack Web Applications  
-✔ Admin Dashboards  
 ✔ SaaS Platforms  
-✔ Payment & API Integrations  
-✔ Cloud Deployment & Optimization  
+✔ Admin Dashboards  
+✔ Payment Gateway Integration  
+✔ API Development & Optimization  
+✔ Cloud Deployment & Scaling  
 
 📩 **sujal2207@gmail.com**  
 🌍 Open for Remote & Freelance Opportunities  
