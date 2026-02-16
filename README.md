@@ -40,7 +40,7 @@ I build systems that are production-ready, scalable, and business-focused.
 ## 🛠 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,vite,tailwind,materialui,nodejs,nestjs,express,mysql,postgres,firebase,supabase,aws,docker,vercel,netlify,git,github,vscode,webstorm" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,vite,tailwind,materialui,nodejs,nestjs,express,mongodb,mysql,postgres,firebase,supabase,aws,docker,vercel,netlify,git,github,vscode,webstorm" />
 </p>
 
 <p align="center">
