@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-🚀 Full Stack Developer | Scalable • Secure • High-Performance Applications
+  🚀 Full Stack Developer | Scalable • Secure • High-Performance Applications
 </h3>
 
 <p align="center">
